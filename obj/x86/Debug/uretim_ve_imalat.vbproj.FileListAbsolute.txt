@@ -1,0 +1,25 @@
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\bin\Debug\uretim_ve_imalat.exe
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\bin\Debug\uretim_ve_imalat.pdb
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\bin\Debug\uretim_ve_imalat.xml
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form1.resources
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Resources.resources
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.vbproj.GenerateResource.Cache
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.exe
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.xml
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.pdb
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form2.resources
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form3.resources
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\bin\Debug\vt.mdb
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.vbprojResolveAssemblyReference.cache
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\RdlCompile.cache
+C:\Users\aysun\Desktop\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.vbprojAssemblyReference.cache
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form1.resources
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form2.resources
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Form3.resources
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.Resources.resources
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.vbproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.vbproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.exe
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.xml
+C:\Users\Excalibur\Desktop\desktop clear\üretim ve imalat\uretim_ve_imalat_VB\uretim_ve_imalat\obj\x86\Debug\uretim_ve_imalat.pdb

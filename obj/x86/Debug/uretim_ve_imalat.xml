@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+uretim_ve_imalat
+</name>
+</assembly>
+<members>
+<member name="P:uretim_ve_imalat.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:uretim_ve_imalat.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:uretim_ve_imalat.My.Resources.Resources.back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:uretim_ve_imalat.My.Resources.Resources.back2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:uretim_ve_imalat.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.hammaddeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.kullaniciDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.urunstokDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.hammaddeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.kullaniciRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.urunstokRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.hammaddeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.kullaniciRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet.urunstokRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.hammaddeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.kullaniciTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.urunstokTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(uretim_ve_imalat.vtDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(uretim_ve_imalat.vtDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(uretim_ve_imalat.vtDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.UpdateAll(uretim_ve_imalat.vtDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:uretim_ve_imalat.vtDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
